@@ -1,17 +1,11 @@
 # alice desktop background wallpaper
+![Alt text](https://raw.github.com/mbohun/gfx/master/alice/alice_1366x768-thumbnail-shadowsoft.png "desktop wallpaper")
 <table>
-	<tr>
-	<td>![Alt text](https://raw.github.com/mbohun/gfx/master/alice/alice_1366x768-thumbnail-shadowsoft.png "desktop wallpaper")</td>
-	<td>
-		blah
-
-		blah
-
-		blah
-
-	</td>
-      	</tr>
+	<tr> <td> blah </td> </tr>
+	<tr> <td> blah </td> </tr>
+	<tr> <td> blah </td> </tr>
 </table>
+
 _" ...back in 2000 in Perth, WA, i shared house with a strange person who called himself Urs, one day on some trip his camera accidentaly took this photo and he threw it away into the rubbish where i found it and my soft artistic soul immediately recognized that it would make a very nice wallpaper desktop background)._"
 
 Martin Bohun
